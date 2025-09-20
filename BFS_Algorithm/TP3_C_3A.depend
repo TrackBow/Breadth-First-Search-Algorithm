@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1697905910 source:c:\users\pc20\onedrive\documents\ecole\insa_2023-2024\langage c\td\tp3_c_3a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1698919822 source:c:\users\pc20\onedrive\documents\ecole\insa_2023-2024\langage c\tp\tp3_c_3a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1698919822 source:c:\users\pc20\onedrive\documents\02-travail\ecole\insa_2023-2024\langage c\tp\tp3_c_3a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
